@@ -1,0 +1,6 @@
+{
+  "name": "SynapseTopic - AI Project Topic Recommender",
+  "description": "An intelligent project topic recommendation system combining collaborative filtering, NLP content-based matching, and AI synthesis to match students with academic capstones, thesis projects, and research topics based on skills, interests, and career goals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
